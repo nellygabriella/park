@@ -1,0 +1,235 @@
+# depslib dependency file v1.0
+1520464946 source:d:\grafika\park\vector3d.cpp
+	"vector3d.h"
+
+1520888503 d:\grafika\park\vector3d.h
+	<iostream>
+	<cmath>
+
+1523037920 source:d:\grafika\park\main.cpp
+	"park.h"
+
+1523484633 source:d:\grafika\park\collision.cpp
+	"collision.h"
+
+1523484633 d:\grafika\park\collision.h
+	"objloader.h"
+	"vector3d.h"
+
+1523565311 d:\grafika\park\objloader.h
+	<SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<cstdlib>
+	<vector>
+	<string>
+	<algorithm>
+	<fstream>
+	<cstdio>
+	<iostream>
+	<cmath>
+	"collisionplane.h"
+
+1521450424 d:\grafika\park\collisionplane.h
+	"vector3d.h"
+
+1521450671 source:d:\grafika\park\collisionplane.cpp
+	"collisionplane.h"
+
+1521450707 source:d:\grafika\park\collisionsphere.cpp
+	"collisionsphere.h"
+
+1521450428 d:\grafika\park\collisionsphere.h
+	"vector3d.h"
+
+1524170223 source:d:\grafika\park\objloader.cpp
+	"objloader.h"
+
+1523922299 source:d:\grafika\park\camera.cpp
+	"camera.h"
+
+1521498675 d:\grafika\park\camera.h
+	<cmath>
+	<iostream>
+	<SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"vector3d.h"
+
+1523563150 source:d:\grafika\park\functions.cpp
+	"functions.h"
+
+1522281662 d:\grafika\park\functions.h
+	<SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<cstdlib>
+	<vector>
+	<string>
+	<algorithm>
+	<fstream>
+	<cstdio>
+	<iostream>
+	<cmath>
+	"objloader.h"
+
+1523913758 d:\grafika\park\park.h
+	<SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"objloader.h"
+	"vector3d.h"
+	"collisionplane.h"
+	"collisionsphere.h"
+	"functions.h"
+	"camera.h"
+	"level.h"
+	"player.h"
+
+1524527941 source:d:\grafika\park\park.cpp
+	"park.h"
+
+1523054659 d:\grafika\park\level.h
+	<vector>
+	<iostream>
+	<SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"collisionplane.h"
+	"vector3d.h"
+
+1523054849 source:d:\grafika\park\level.cpp
+	"level.h"
+
+1523915651 d:\grafika\park\player.h
+	<SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<vector>
+	<string>
+	"vector3d.h"
+	"collisionplane.h"
+	"collisionsphere.h"
+	"collision.h"
+	"camera.h"
+
+1524168395 source:d:\grafika\park\player.cpp
+	"player.h"
+
+1523922299 source:c:\users\nelly gabriella\desktop\park\camera.cpp
+	"camera.h"
+
+1521498675 c:\users\nelly gabriella\desktop\park\camera.h
+	<cmath>
+	<iostream>
+	<SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"vector3d.h"
+
+1520888503 c:\users\nelly gabriella\desktop\park\vector3d.h
+	<iostream>
+	<cmath>
+
+1523484633 source:c:\users\nelly gabriella\desktop\park\collision.cpp
+	"collision.h"
+
+1523484633 c:\users\nelly gabriella\desktop\park\collision.h
+	"objloader.h"
+	"vector3d.h"
+
+1523565311 c:\users\nelly gabriella\desktop\park\objloader.h
+	<SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<cstdlib>
+	<vector>
+	<string>
+	<algorithm>
+	<fstream>
+	<cstdio>
+	<iostream>
+	<cmath>
+	"collisionplane.h"
+
+1521450424 c:\users\nelly gabriella\desktop\park\collisionplane.h
+	"vector3d.h"
+
+1521450671 source:c:\users\nelly gabriella\desktop\park\collisionplane.cpp
+	"collisionplane.h"
+
+1521450707 source:c:\users\nelly gabriella\desktop\park\collisionsphere.cpp
+	"collisionsphere.h"
+
+1521450428 c:\users\nelly gabriella\desktop\park\collisionsphere.h
+	"vector3d.h"
+
+1523563150 source:c:\users\nelly gabriella\desktop\park\functions.cpp
+	"functions.h"
+
+1522281662 c:\users\nelly gabriella\desktop\park\functions.h
+	<SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<cstdlib>
+	<vector>
+	<string>
+	<algorithm>
+	<fstream>
+	<cstdio>
+	<iostream>
+	<cmath>
+	"objloader.h"
+
+1523054849 source:c:\users\nelly gabriella\desktop\park\level.cpp
+	"level.h"
+
+1523054659 c:\users\nelly gabriella\desktop\park\level.h
+	<vector>
+	<iostream>
+	<SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"collisionplane.h"
+	"vector3d.h"
+
+1523037920 source:c:\users\nelly gabriella\desktop\park\main.cpp
+	"park.h"
+
+1523913758 c:\users\nelly gabriella\desktop\park\park.h
+	<SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"objloader.h"
+	"vector3d.h"
+	"collisionplane.h"
+	"collisionsphere.h"
+	"functions.h"
+	"camera.h"
+	"level.h"
+	"player.h"
+
+1523915651 c:\users\nelly gabriella\desktop\park\player.h
+	<SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<vector>
+	<string>
+	"vector3d.h"
+	"collisionplane.h"
+	"collisionsphere.h"
+	"collision.h"
+	"camera.h"
+
+1524170223 source:c:\users\nelly gabriella\desktop\park\objloader.cpp
+	"objloader.h"
+
+1524528783 source:c:\users\nelly gabriella\desktop\park\park.cpp
+	"park.h"
+
+1524168395 source:c:\users\nelly gabriella\desktop\park\player.cpp
+	"player.h"
+
+1520464946 source:c:\users\nelly gabriella\desktop\park\vector3d.cpp
+	"vector3d.h"
+
